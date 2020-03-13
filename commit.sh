@@ -1182,6 +1182,10 @@ git commit -m "commit"
 git push
 clear
 
+rm commit.sh
+git add --all
+git commit -m "Cleaner"
+git push
 
 clear
 echo "\n\n\t>>DONE\n\n"
