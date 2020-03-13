@@ -1118,8 +1118,6 @@ git add binary_tree_print.c
 git commit -m "[Rakia - binary_tree_print.c]"
 git add binary_trees.h
 git commit -m "[Rakia - binary_trees.h]"
-git add commit.sh
-git commit -m "commit"
 git push
 clear
 
@@ -1177,8 +1175,6 @@ git add binary_tree_print.c
 git commit -m "[Rakia - binary_tree_print.c]"
 git add binary_trees.h
 git commit -m "[Rakia - binary_trees.h]"
-git add commit.sh
-git commit -m "commit"
 git push
 clear
 
