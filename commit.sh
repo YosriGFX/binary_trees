@@ -2,7 +2,7 @@
 #Commiter
 
 chmod 777 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
@@ -32,7 +32,7 @@ git commit -m "[YOSRI- binary_trees.h]"
 git push
 clear
 chmod 400 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
@@ -62,7 +62,7 @@ git commit -m "[YOSRI- binary_trees.h]"
 git push
 clear
 chmod 777 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
@@ -92,7 +92,7 @@ git commit -m "[YOSRI- binary_trees.h]"
 git push
 clear
 chmod 400 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
@@ -122,7 +122,7 @@ git commit -m "[YOSRI- binary_trees.h]"
 git push
 clear
 chmod 777 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
@@ -152,7 +152,7 @@ git commit -m "[YOSRI- binary_trees.h]"
 git push
 clear
 chmod 400 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
@@ -182,7 +182,7 @@ git commit -m "[YOSRI- binary_trees.h]"
 git push
 clear
 chmod 777 *
-git add .
+git add --all
 git commit -m "[YOSRI- 0-binary_tree_node.c]"
 git commit -m "[YOSRI- 1-binary_tree_insert_left.c]"
 git commit -m "[YOSRI- 10-binary_tree_depth.c]"
