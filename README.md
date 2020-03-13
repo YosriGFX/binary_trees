@@ -1,5 +1,5 @@
 # 0x1D. C - Binary trees
-> by Alexandre Gautier, Software Engineer at Holberton, Inc._
+> _by Alexandre Gautier, Software Engineer at Holberton, Inc._
 ## Data structures
 #### Basic Binary Tree
 
