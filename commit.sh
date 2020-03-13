@@ -46,7 +46,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -103,7 +103,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -160,7 +160,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -217,7 +217,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -274,7 +274,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -331,7 +331,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -388,7 +388,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
@@ -445,7 +445,7 @@ git add 8-binary_tree_postorder.c
 git commit -m "[YOSRI- 8-binary_tree_postorder.c]"
 git add 9-binary_tree_height.c
 git commit -m "[YOSRI- 9-binary_tree_height.c]"
-git add readme.md
+git add README.md
 git commit -m "[YOSRI- README.md]"
 git add binary_tree_print.c
 git commit -m "[YOSRI- binary_tree_print.c]"
