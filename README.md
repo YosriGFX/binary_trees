@@ -1315,4 +1315,5 @@ alex@/tmp/binary_trees$
 - **[Yosri Ghorbel](https://github.com/YosriGFX)**
 - **[Rakia Somai](https://github.com/rakiasomai)**
 ##
-> Copyright © 2020 Holberton School. All rights reserved.
+
+> Copyright © 2021 [Holberton School](https://www.holbertonschool.com). All rights reserved.
